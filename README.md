@@ -14,8 +14,8 @@ The "PPT Image Scraper" is a Python-based web scraping tool that allows users to
 
 💬 Informative Output: The tool provides users with helpful information, such as the number of links in each batch and real-time updates on image downloads, keeping them well-informed throughout the process.
 
-Use Case:
+## Use Case:
 The "PPT Image Scraper" is a valuable tool for researchers, educators, and professionals who need to gather and collate images from presentations available on SlideShare. It saves valuable time and effort by automatically handling pagination, extracting relevant links, and downloading high-resolution images from the slides. 🚀
 
-📝 Note: When using web scraping tools, it's vital to comply with the terms of service of the websites being scraped and adhere to their data usage policies. Always ensure that web scraping is conducted ethically and responsibly. 🤝
+###📝 Note: When using web scraping tools, it's vital to comply with the terms of service of the websites being scraped and adhere to their data usage policies. Always ensure that web scraping is conducted ethically and responsibly. 🤝
 
