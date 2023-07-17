@@ -1,9 +1,9 @@
 # 🔍 PPT Image Scraper 📷
 
-Description:
+## Description:
 The "PPT Image Scraper" is a Python-based web scraping tool that allows users to efficiently extract presentation (PPT) links from the SlideShare website and download high-quality images from the slides. 🎯
 
-Key Features:
+## Key Features:
 📄 Pagination Handling: The tool automatically navigates through multiple pages of search results using the pagination feature and seamlessly extracts presentation links from each page.
 
 📦 Batch Processing: The extracted links are thoughtfully organized into batches of 18 links each, simplifying the image downloading process and improving overall efficiency.
